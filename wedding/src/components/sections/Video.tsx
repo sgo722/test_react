@@ -5,6 +5,7 @@ import styles from "./Video.module.scss";
 const cx = classNames.bind(styles);
 
 function Video() {
+  cx
   return <Section>Heading</Section>;
 }
 
